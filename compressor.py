@@ -15,3 +15,4 @@ if __name__ == '__main__':
             # WE SAVE THE PICTURES IN THE SAME FOLDER, ADDING COMPRESSED_ TO HIS NAME, OPTIMIZING IT IN A QUALITY OF 60
             picture.save(downloadsFolder + 'compressed_' + filename, optimize=True, quality=60)
 
+
